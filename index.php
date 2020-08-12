@@ -12,7 +12,7 @@ $builder = new VehicleBuilder();
 $weather = Weather::getInstance(); 
 
 
-echo 'tutaj';
+echo 'tutaj trzy';
 
 $race = new Race($weather); 
 
