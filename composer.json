@@ -1,0 +1,14 @@
+{
+    "name": "abran/php-wzorce",
+    "type": "project", 
+    "authors": [
+        {
+            "name": "PawelSilwer", 
+            "email": "pawelpawelski2019@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"phpWzorce\\": "src/"}
+    },
+    "require": {}
+}
